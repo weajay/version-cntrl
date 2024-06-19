@@ -59,5 +59,5 @@ git flow involves isolating your work into different types of Git branches. Git 
 2.	How do you clone a repository? 
 git clone <repository url> [directory]
 3.	How do you check the status of your Git repository?  
-git status command 
+git status 
 
