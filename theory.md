@@ -53,5 +53,7 @@ Good Luck
 
 
 
+1.	Explain the Git workflow
+git flow involves isolating your work into different types of Git branches. Git workflows encourage developers and devops teams to leverage Git effectively and consistently. Git offers a lot of flexibility in how users manage changes
 
 
