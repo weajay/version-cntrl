@@ -60,6 +60,9 @@ git flow involves isolating your work into different types of Git branches. Git 
 git clone <repository url> [directory]
 3.	How do you check the status of your Git repository?  
 git status 
-
+4.	How do you stage and commit changes?  git add and git commit
 5.	How do you create a new branch?  git branch <branch name>
 6.	Explain the concept of git branching strategy. Systematic way to manage branches in a repository. It helps streamline development workflows, making it easier to manage feature development, bug fixes, and releases. Strategies like these are essential as they help in keeping project repositories organized, error free and avoid the dreaded merge conflicts when multiple developers simultaneously push and pull code from the same repository.
+7.	Encountering merge conflicts can impede the swift delivery of code, thereby obstructing the establishment and upkeep of an efficient DevOps workflow. DevOps aims to facilitate a rapid process for releasing incremental code changes. Therefore, implementing a structured branching strategy can alleviate this challenge, enabling developers to collaborate seamlessly and minimize conflicts. This approach fosters parallel workstreams within teams, promoting quicker releases and reduced likelihood of conflicts through a well-defined process for source control modifications.
+8.	How do you switch to a different branch? git switch <branch name>
+9.	How do you merge one branch into another? git merge <branch you want to merge into branch>
