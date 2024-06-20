@@ -61,3 +61,5 @@ git clone <repository url> [directory]
 3.	How do you check the status of your Git repository?  
 git status 
 
+5.	How do you create a new branch?  git branch <branch name>
+6.	Explain the concept of git branching strategy. Systematic way to manage branches in a repository. It helps streamline development workflows, making it easier to manage feature development, bug fixes, and releases. Strategies like these are essential as they help in keeping project repositories organized, error free and avoid the dreaded merge conflicts when multiple developers simultaneously push and pull code from the same repository.
