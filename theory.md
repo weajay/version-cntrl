@@ -66,3 +66,14 @@ git status
 7.	Encountering merge conflicts can impede the swift delivery of code, thereby obstructing the establishment and upkeep of an efficient DevOps workflow. DevOps aims to facilitate a rapid process for releasing incremental code changes. Therefore, implementing a structured branching strategy can alleviate this challenge, enabling developers to collaborate seamlessly and minimize conflicts. This approach fosters parallel workstreams within teams, promoting quicker releases and reduced likelihood of conflicts through a well-defined process for source control modifications.
 8.	How do you switch to a different branch? git switch <branch name>
 9.	How do you merge one branch into another? git merge <branch you want to merge into branch>
+10.	What is a merge conflict and how do you resolve it? 
+Merge conflict is when two branches are being merged  to have changes to the same parts of the same file and git cannot automatically reconcile the difference. You resolve git conflict by: 
+a. attempting to merge branches first. 
+b. identify conflict files. 
+c. open conflict files. 
+d. resolve the conflicts. 
+e. mark conflict as resolved. 
+f. git add filename.exit 
+11.	Why is branching important in Git? 
+Provides a systematic way to manage branches in a repository. It helps streamline development of workflows, making it easier to manage feature development, bug fixes, and releases. 
+
