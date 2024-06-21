@@ -79,7 +79,7 @@ Provides a systematic way to manage branches in a repository. It helps streamlin
 
 12.	What is a pull request (PR) and what is its purpose?
 Pull requests, otherwise known as PRs, is used to initiate the process of integrating new code changes into the main project repository. Pull requests are sent through git systems, like GitHub, to notify the rest of your team that a branch or fork is ready to be reviewed.
-113.	Explain the concept of 'forking' in GitHub.
+13.	Explain the concept of 'forking' in GitHub.
 A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open-source projects or when a user does not have write access to the upstream repository. For more information
 14.	How do you find a specific commit in the history?
 git log
